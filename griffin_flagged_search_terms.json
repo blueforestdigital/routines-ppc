@@ -1,0 +1,348 @@
+TOTAL_ANALYZED: 229
+ELIMINATE: 9
+CONSIDER: 12
+COMPETITOR: 10
+
+[
+  {
+    "search_term": "dsr loan",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 17,
+    "clicks": 2,
+    "spend": 68.08,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "debt servicing loan",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 2,
+    "spend": 48.4,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled term - \"debt servicing loan\" is not a real mortgage product; likely confused with DSCR"
+  },
+  {
+    "search_term": "hud 184 loans",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 26.37,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "HUD Section 184 is a Native American tribal housing loan program, outside Griffin's product scope"
+  },
+  {
+    "search_term": "drc loan meaning",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 21.72,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "dcrs loan",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 4,
+    "clicks": 1,
+    "spend": 17.83,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "dsr loan rates",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 12.47,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "dsc loan",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 2,
+    "clicks": 1,
+    "spend": 8.48,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "what is a drc loan",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 7.73,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "dsr loans",
+    "category": "ELIMINATE",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 2,
+    "clicks": 1,
+    "spend": 4.84,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Garbled/misspelled DSCR acronym - poor quality traffic, no real buyer intent"
+  },
+  {
+    "search_term": "bank statement mortgage loan",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 42,
+    "clicks": 12,
+    "spend": 689.14,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $689.14 exceeds $600 (3x $200 CPA target) with 0 conversions; review match type and landing page alignment"
+  },
+  {
+    "search_term": "bank statement loan",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 105,
+    "clicks": 9,
+    "spend": 379.23,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $379.23 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "non qualified mortgage lenders",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_NON-QM_Mixed",
+    "impressions": 45,
+    "clicks": 6,
+    "spend": 343.16,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $343.16 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "bank statement heloc lenders",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed, GS_NB_HELOC_Mixed",
+    "impressions": 4,
+    "clicks": 3,
+    "spend": 260.1,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $260.10 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "non qm lenders",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_NON-QM_Mixed",
+    "impressions": 58,
+    "clicks": 7,
+    "spend": 221.46,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $221.46 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "private mortgage lenders",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 39,
+    "clicks": 7,
+    "spend": 218.52,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $218.52 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "top dscr lenders 2026",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 3,
+    "clicks": 3,
+    "spend": 206.42,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $206.42 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "best bank statement loan lenders",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 10,
+    "clicks": 3,
+    "spend": 200.96,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Spend $200.96 in $200-$600 range with 0 conversions; approaching threshold, monitor closely"
+  },
+  {
+    "search_term": "fha loan self employed",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 39.29,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "FHA is a government-backed conventional program; Griffin focuses on Non-QM/DSCR. Borrower may be comparing options but product mismatch"
+  },
+  {
+    "search_term": "fha dscr loan",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 2,
+    "spend": 25.04,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "FHA is a government-backed conventional program; Griffin focuses on Non-QM/DSCR. Borrower may be comparing options but product mismatch"
+  },
+  {
+    "search_term": "hei loan companies",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 2,
+    "clicks": 1,
+    "spend": 21.74,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "HEI (Home Equity Investment) - adjacent but different product from HELOC; could be comparing options"
+  },
+  {
+    "search_term": "self employed loans guaranteed approval",
+    "category": "CONSIDER",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 6,
+    "clicks": 1,
+    "spend": 19.32,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "\"Guaranteed approval\" language attracts low-credit/high-risk borrowers; likely below Griffin qualification threshold"
+  },
+  {
+    "search_term": "unlock hea",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_HELOC_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 152.93,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Unlock is a competing home equity investment brand (HEA product)"
+  },
+  {
+    "search_term": "bd nationwide mortgage",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_HELOC_Mixed",
+    "impressions": 2,
+    "clicks": 1,
+    "spend": 127.33,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor lender: BD Nationwide Mortgage"
+  },
+  {
+    "search_term": "prosperity bank heloc",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_HELOC_Mixed",
+    "impressions": 1,
+    "clicks": 2,
+    "spend": 119.02,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor bank: Prosperity Bank"
+  },
+  {
+    "search_term": "backflip lending",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_BSL_Mixed",
+    "impressions": 5,
+    "clicks": 1,
+    "spend": 66.83,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor lender: Backflip Lending"
+  },
+  {
+    "search_term": "chase heloc on rental property",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_HELOC_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 34.46,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor bank: Chase"
+  },
+  {
+    "search_term": "wells fargo dscr loan",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 2,
+    "spend": 28.22,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor bank: Wells Fargo"
+  },
+  {
+    "search_term": "inland capital spokane",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 25.9,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor lender: Inland Capital"
+  },
+  {
+    "search_term": "chase dscr loan",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 22.0,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor bank: Chase"
+  },
+  {
+    "search_term": "home xpress mortgage",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_NON-QM_Mixed",
+    "impressions": 7,
+    "clicks": 1,
+    "spend": 15.58,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor non-QM lender: HomeXpress Mortgage"
+  },
+  {
+    "search_term": "chase dscr loan rates",
+    "category": "COMPETITOR",
+    "campaigns": "GS_NB_DSCR_Mixed",
+    "impressions": 1,
+    "clicks": 1,
+    "spend": 9.02,
+    "conversions": 0,
+    "conversion_value": 0.0,
+    "reason": "Named competitor bank: Chase"
+  }
+]
